@@ -1,0 +1,14 @@
+{
+    "Bego": {
+        "bar":"A",
+        "cocteles":[{"c1":"f1"},{"c2":"f2"}]
+    },
+    "Rata": {
+        "bar":"Suave",
+        "cocteles":[{"c3":"f3"},{"c4":"f4"}]
+    },
+    "Seta": {
+        "bar":"Mostrax",
+        "cocteles":[{"c5":"f5"}]
+    }
+}
