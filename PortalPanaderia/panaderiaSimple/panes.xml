@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<panaderia>
+
+    <panes>
+        <pan tipo="Redondo">
+            <precio>0.60</precio>
+        </pan>
+        <pan tipo="Redondo">
+            <precio>0.60</precio>
+        </pan>
+        <pan tipo="Redondo">
+            <precio>0.60</precio>
+        </pan>
+        <pan tipo="Payes">
+            <precio>0.50</precio>
+        </pan>
+        <pan tipo="Payes">
+            <precio>0.50</precio>
+        </pan>
+    </panes>
+
+    <clientes>
+        <cliente nombre="Pablo Zafra"/>
+        <cliente nombre="Alvaro Mendivil"/>
+        <cliente nombre="Javier Millo"/>
+    </clientes>
+
+
+</panaderia>

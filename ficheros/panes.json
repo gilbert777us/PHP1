@@ -1,0 +1,17 @@
+{
+  "Redondos": {
+    "cantidad": 5,
+    "precio": 0.50,
+    "calidad": "Deluxe"
+  },
+  "Fino": {
+    "cantidad": 15,
+    "precio": 0.35,
+    "calidad": "Aceptable"
+  },
+  "Payes": {
+    "cantidad": 3,
+    "precio": 0.80,
+    "calidad": "Muy buena"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Goku": {
+    "equipo": "Tierra",
+    "categoria": "Saiyajin",
+    "vida": 190,
+    "amigos": {
+      "1": "Piccolo",
+      "2": "Krilin",
+      "3": "Gohan"
+    }
+
+  },
+  "Vegeta": {
+    "equipo": "Bad boys",
+    "categoria": "Saiyajin",
+    "vida": 150,
+    "amigos": {
+      "1": "Nappa",
+      "2": "Bulma"
+    }
+  },
+  "Freezer": {
+    "equipo": "Equipo Freezer",
+    "categoria": "Monstruo",
+    "vida": 250,
+    "amigos": {
+      "1": "Zarbon",
+      "2": "Dodoria"
+    }
+  }
+}

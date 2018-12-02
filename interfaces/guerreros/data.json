@@ -1,0 +1,20 @@
+{
+    "Bego": {
+        "equipo":"A",
+        "categoria":"H1",
+        "puntosVida":3,
+        "amigos":["Rata","Seta"]
+    },
+    "Rata": {
+        "equipo":"B",
+        "categoria":"H2",
+        "puntosVida":5,
+        "amigos":["Pana","Seta"]
+    },
+    "Seta": {
+        "equipo":"B",
+        "categoria":"H1",
+        "puntosVida":8,
+        "amigos":["Rata","Cea"]
+    }
+}
